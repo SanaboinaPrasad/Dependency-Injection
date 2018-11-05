@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "8b350975c507b19c20d3afed1575951b"
+build_time: [1541432077, 637066000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/DependencyInjectio/SomeService.swift": [1541424614, 0]
+  "/Users/sriramprasad/Dev/rough/DependencyInjectio/DependencyInjectio/ViewController.swift": [1541432076, 0]
+  "/Users/sriramprasad/Dev/rough/DependencyInjectio/DependencyInjectio/AppDelegate.swift": [1541429869, 0]
